@@ -1,0 +1,2 @@
+# repository-template
+Generic repository
