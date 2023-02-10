@@ -16,10 +16,16 @@ Brief Description of the Features offered by this Repository
 
 ## How to Contribute
 
+We love your input! We want to make contributing to this project as easy and transparent as possible, whether it's:
+
+1. Reporting a bug
+2. Discussing the current state of the code
+3. Submitting a fix
+4. Proposing new features
+5. Becoming a maintainer
+
 When contributing to this repository, please first discuss the change you wish to make via issue,
 email, or any other method with the owners of this repository before making a change. 
-
-Please note we have a code of conduct, please follow it in all your interactions with the project.
 
 ### Pull Request Process
 
